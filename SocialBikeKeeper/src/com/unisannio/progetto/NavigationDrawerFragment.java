@@ -1,4 +1,4 @@
-package com.unisannio.socialbikekeeper1;
+package com.unisannio.progetto;
 
 import android.support.v7.app.ActionBarActivity;
 import android.app.Activity;
